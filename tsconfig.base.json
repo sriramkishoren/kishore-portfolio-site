@@ -17,6 +17,9 @@
     "paths": {
       "@kishore-portfolio-site/api-interfaces": [
         "libs/api-interfaces/src/index.ts"
+      ],
+      "@kishore-portfolio-site/shared/client": [
+        "libs/shared/client/src/index.ts"
       ]
     }
   },
